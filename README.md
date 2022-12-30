@@ -1,4 +1,6 @@
-# Shuffle-game
+# Shuffle Game
 
+This game contains random 3x3 grid of numbers, you have to arrange the numbers in numerical order in order to win the game
 
-This game contain 3x3 grid of number, in order to win arrange the number in numerical order
+## Techonology
+- Java
